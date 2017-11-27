@@ -1,0 +1,403 @@
+<?php
+
+/**
+
+ * Magento
+
+ *
+
+ * NOTICE OF LICENSE
+
+ *
+
+ * This source file is subject to the Academic Free License (AFL 3.0)
+
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+
+ * It is also available through the world-wide-web at this URL:
+
+ * http://opensource.org/licenses/afl-3.0.php
+
+ * If you did not receive a copy of the license and are unable to
+
+ * obtain it through the world-wide-web, please send an email
+
+ * to license@magento.com so we can send you a copy immediately.
+
+ *
+
+ * DISCLAIMER
+
+ *
+
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+
+ * versions in the future. If you wish to customize Magento for your
+
+ * needs please refer to http://www.magento.com for more information.
+
+ *
+
+ * @category    design
+
+ * @package     rwd_default
+
+ * @copyright   Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
+
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+
+ */
+
+/**
+
+ * @var Mage_Page_Block_Html_Header $this
+
+ */
+
+?>
+
+<?php /*?>
+
+<div class="header-language-background">
+
+    <div class="header-language-container">
+
+        <div class="store-language-container">
+
+            <?php echo $this->getChildHtml('store_language') ?>
+
+        </div>
+
+
+
+        <?php echo $this->getChildHtml('currency_switcher') ?>
+
+
+
+        <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getChildHtml('accountLinks') ?></p>
+
+    </div>
+
+</div>
+
+
+
+<header id="header" class="page-header">
+
+    <div class="page-header-container">
+
+        <a class="logo" href="<?php echo $this->getUrl('') ?>">
+
+            <img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" class="large" />
+
+            <img src="<?php echo $this->getLogoSrcSmall() ?>" alt="<?php echo $this->getLogoAlt() ?>" class="small" />
+
+        </a>
+
+
+
+        <?php // In order for the language switcher to display next to logo on smaller viewports, it will be moved here.
+
+              // See app.js for details ?>
+
+        <div class="store-language-container"></div>
+
+
+
+        <!-- Skip Links -->
+
+
+
+        <div class="skip-links">
+
+            <a href="#header-nav" class="skip-link skip-nav">
+
+                <span class="icon"></span>
+
+                <span class="label"><?php echo $this->__('Menu'); ?></span>
+
+            </a>
+
+
+
+            <a href="#header-search" class="skip-link skip-search">
+
+                <span class="icon"></span>
+
+                <span class="label"><?php echo $this->__('Search'); ?></span>
+
+            </a>
+
+
+
+            <div class="account-cart-wrapper">
+
+                <a href="<?php echo $this->helper('customer')->getAccountUrl(); ?>" data-target-element="#header-account" class="skip-link skip-account">
+
+                    <span class="icon"></span>
+
+                    <span class="label"><?php echo $this->__('Account'); ?></span>
+
+                </a>
+
+
+
+                <!-- Cart -->
+
+
+
+                <div class="header-minicart">
+
+                    <?php echo $this->getChildHtml('minicart_head'); ?>
+
+                </div>
+
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+        <!-- Navigation -->
+
+
+
+        <div id="header-nav" class="skip-content">
+
+            <?php echo $this->getChildHtml('topMenu') ?>
+
+        </div>
+
+
+
+        <!-- Search -->
+
+
+
+        <div id="header-search" class="skip-content">
+
+            <?php echo $this->getChildHtml('topSearch') ?>
+
+        </div>
+
+
+
+        <!-- Account -->
+
+
+
+        <div id="header-account" class="skip-content">
+
+            <?php echo $this->getChildHtml('topLinks') ?>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+
+
+
+<?php echo $this->getChildHtml('topContainer'); ?><?php */?>
+
+<!doctype html><head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>VERTICAL MENSWEAR</title>
+
+<link href="css/custom.css" type="text/css" rel="stylesheet">
+
+<link href="css/responsive.css" type="text/css" rel="stylesheet">
+
+<link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
+
+<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+
+<link rel="shortcut icon" href="http://www.uniterreneprojects.com/dev/vertical-menswere/skin/frontend/base/default/favicon.ico" >
+
+<!-- ready made shirt slider -->
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<!--slider-->
+
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+
+<link rel="stylesheet" type="text/css" href="css/banner_style.css" />
+
+<script type="text/javascript" src="js/modernizr.custom.28468.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Economica:700,400italic' rel='stylesheet' type='text/css'>
+
+
+
+<noscript>
+
+<link rel="stylesheet" type="text/css" href="css/nojs.css" />
+
+</noscript>
+
+<?php echo $this->getChildHtml('head') ?>
+
+</head>
+
+<body>
+
+<?php $url = Mage::getBaseUrl(Mage_Core_Model_Store::URL_TYPE_WEB);?>
+
+<div class="search_field">
+
+    <a href="javascript:void(0);"><i class="fa fa-times"></i></a>
+
+    <div class="search_box">
+
+       <div class="search_box_inside">
+
+         <?php /*?><form action="#" method="post">
+
+           <input type="search" placeholder="Search" class="search-area">
+
+           <button type="submit" class="submit-button">SUBMIT</button>
+
+        </form><?php */?>
+<?php echo $this->getChildHtml('topSearch') ?>
+       </div>
+
+        
+
+    </div>
+
+    
+
+ </div>
+
+<header id="header">
+  <div class="header_top clearfix">
+    <div class="container">
+      <ul class="content clearfix">
+        <li><a href="mailTo:sales@verticalmenswear.com.my"><?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('email')->toHtml();?></a></li>
+        <li class="line">|</li>
+        <li><a href="tel:012-333 4567"><?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('phone_no')->toHtml();?></a></li>
+        <li class="line">|</li>
+        <li><a href="#"><i class="fa fa-instagram"></i></a> <a href="#"><i class="fa fa-facebook-square"></i></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="header-bottom">
+
+    <div class="container clearfix">
+
+      <div class="logo"> <a href="<?php echo $url;?>"><img src="images/logo.png" ></a> </div>
+
+      <div class="top_menu">
+
+        <ul>
+
+          <li>
+
+            <div class="search"><i class="fa fa-search"></i></div>
+
+          </li>
+            <?php
+            $sessionCustomer = Mage::getSingleton("customer/session");
+
+if($sessionCustomer->isLoggedIn()) { 
+            
+            ?>
+ <li><a href="<?php echo $url;?>customer/account/logout/"><i class="fa fa-lock"></i> Sign Out</a></li>
+
+        <?php    }
+            else { ?>
+            <li><a href="<?php echo $url;?>customer/account/login/"><i class="fa fa-lock"></i> Sign In</a></li>
+   
+<?php } ?>
+
+           
+          <li><a href="<?php echo $url;?>wishlist"><i class="fa fa-heart"></i> wish list</a></li>
+          <li><a href="<?php echo $url;?>checkout/cart"><i class="fa fa-shopping-bag"></i> shopping bag <span>(<?php echo Mage::helper('checkout/cart')->getSummaryCount();?>)</span></a></li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+<nav>
+
+  <div class="container">
+
+    
+
+    <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('header_menu')->toHtml();
+
+	//print_r($menu_data);
+
+	?>
+
+     
+
+    
+
+   
+
+    <p href="#" class="menu-button">
+
+       <a href="javascript:void(0);">
+
+          <span></span>
+
+          <span></span>
+
+          <span></span>
+
+       </a>
+
+    </p>
+
+  <!--  <ul class="menu-bar clearfix">
+
+      <li><a href="#"><span> READYMADE </span> SHIRTS</a></li>
+
+      <li><a href="#"><span> CUSTOMIZE </span> YOUR SHIRT</a></li>
+
+      <li><a href="#"><span> GIFT </span> CARD</a></li>
+
+      <li><a href="#"><span> HOW IT </span> WORKS</a></li>
+
+      <li><a href="#"> B2B </a></li>
+
+      <li><a href="#">PROMOTION </a></li>
+
+      <li><a href="#"> BLOG</a></li>
+
+      <li><a href="#"><span> ABOUT </span> US</a></li>
+
+    </ul>-->
+      <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('res_menu')->toHtml();
+
+	//print_r($menu_data);
+
+	?>
+
+  
+
+    
+
+  </div>
+
+</nav>
+

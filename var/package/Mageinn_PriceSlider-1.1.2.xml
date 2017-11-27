@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<package>
+    <name>Mageinn_PriceSlider</name>
+    <version>1.1.2</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL 3.0)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This module improves the usability of your store by enriching product attributes and its options with tooltips</summary>
+    <description>This Magento extension allows you to improve the usability of your Magento store by enriching product attributes and its options with descriptive tooltips/hints that work beautifully in every browser on any device.</description>
+    <notes>==== 1.1.1 ====&#xD;
+&#xD;
+=== Bug fixes ===&#xD;
+&#xD;
+Fixed browser "back, forward" buttons behavior &#xD;
+&#xD;
+Fixed RWD callback&#xD;
+&#xD;
+&#xD;
+=== Improvements ===&#xD;
+&#xD;
+Added callback JS for RWD theme&#xD;
+&#xD;
+&#xD;
+&#xD;
+==== 1.1.0 ====&#xD;
+&#xD;
+=== Bug fixes ===&#xD;
+&#xD;
+Incorrect initial slider position when prices are not whole numbers&#xD;
+&#xD;
+Fixed filter block duplication bug&#xD;
+&#xD;
+Fixed swatches&#xD;
+&#xD;
+&#xD;
+=== Improvements ===&#xD;
+&#xD;
+Added callback template&#xD;
+&#xD;
+&#xD;
+&#xD;
+==== 1.0.1 ====&#xD;
+&#xD;
+Initial Release&#xD;
+&#xD;
+</notes>
+    <authors><author><name>Mageinn</name><user>Mageinn</user><email>sales@mageinn.com</email></author></authors>
+    <date>2016-05-10</date>
+    <time>17:51:30</time>
+    <contents><target name="magecommunity"><dir name="Mageinn"><dir name="PriceSlider"><dir name="Block"><file name="Ajax.php" hash="c32c572fe8a257ca2ca738ef0037fe5f"/><file name="Price.php" hash="b9564bd0fa3798a4e36880453e78d93a"/></dir><dir name="Helper"><file name="Data.php" hash="a55028759831a691ed6efdbdf533ce22"/></dir><dir name="Model"><dir name="Catalog"><dir name="Layer"><dir name="Filter"><file name="Price.php" hash="7bd74637ad92a545afeb6f3a32f9daea"/></dir></dir><dir name="Resource"><dir name="Layer"><dir name="Filter"><file name="Price.php" hash="91ecc6d223791aaffb8692ea267a1f0e"/></dir></dir></dir></dir></dir><dir name="controllers"><dir name="Catalog"><file name="CategoryController.php" hash="7f9d731662c8283cd72dfe6c19563d8c"/></dir><dir name="CatalogSearch"><file name="ResultController.php" hash="ba6e0169043bbbec1d811c6b4a436194"/></dir></dir><dir name="data"><dir name="mageinn_priceslider_setup"><file name="data-install-1.0.0.php" hash="0133c6332c9a5855fdf688d307d26c56"/></dir></dir><dir name="etc"><file name="config.xml" hash="086c9f670fc35d645fec9bf14206634e"/><file name="system.xml" hash="e5e2fd1c7062a35d51910915332b30da"/></dir><file name="readme.txt" hash="752b6f6a88967a809553c10a80905df2"/></dir><dir name="Core"><dir name="Helper"><file name="Data.php" hash="13b561c0d89e62f25cb160e069ff214f"/></dir><dir name="Model"><file name="Feed.php" hash="67f6a434ef11878160cd982ae2572854"/><file name="Observer.php" hash="6b3dfe35514c435dcc5b3e20a579058e"/><dir name="Resource"><file name="Setup.php" hash="59a9cc46ffadc1b39bed1ea2ac37c679"/></dir></dir><dir name="controllers"><file name="DebugController.php" hash="88fdc085f655f0dd52c60a45eb3f9ef3"/></dir><dir name="etc"><file name="config.xml" hash="f3df702365cc1d700610149f26b698ca"/><file name="system.xml" hash="fa0d769fe9dc54e5da44d1532a9aad0f"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Mageinn_Core.xml" hash="00508618a1af942d763cf930ca1cf3e6"/><file name="Mageinn_PriceSlider.xml" hash="8b3c4408da05bc71728392d244a8f6e8"/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><dir name="mageinn"><file name="core.xml" hash="2f90c741043895509df07e28bba4375f"/></dir></dir></dir></dir></dir><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="mageinn"><file name="core.xml" hash="8e34f616364ec44a76a696968da12201"/><file name="priceslider.xml" hash="dd4bebca9fc645a5064950a6f87b7902"/></dir></dir><dir name="template"><dir name="mageinn"><dir name="priceslider"><file name="ajax.phtml" hash="dcecdbd68063ada885dba0582cdcc462"/><file name="callback.phtml" hash="fdd0b6186db0cc69b3dbff0e3e04963e"/><file name="price.phtml" hash="7b4f7c06ef8e4b0c50fe4cece42bb43f"/></dir><dir name="catalog"><dir name="layer"><file name="view.phtml" hash="f51fb76b6098fb5fc6f7b611fee68fe4"/></dir></dir></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><dir name="mageinn"><file name="priceslider.css" hash="d30cdc5af574fb056ffa302febf54699"/></dir></dir></dir></dir></dir></target><target name="mageweb"><dir name="js"><dir name="mageinn"><file name="wNumb.js" hash="3f05e6c0096784aa8f8d2f07c9bc4218"/><dir name="nouislider"><file name="nouislider.min.css" hash="d2509b2c466924831bace0fb8dfce960"/><file name="nouislider.min.js" hash="dd19d897f5ee7cfca3543be98595fef1"/></dir><dir name="jquery"><file name="jquery.min.js" hash="b2f71c943f2f14613bc100fc3ec59db2"/><file name="jquery.noconflict.js" hash="d07784b624e9b9e8544f3106cd7cd1e1"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>7.0.6</max></php></required></dependencies>
+</package>

@@ -1,0 +1,19 @@
+2016-11-09T11:31:46+00:00 DEBUG (7): exception 'Exception' with message 'WordPress Auto Login Failed: HTTP/1.1 200 OK
+Date: Wed, 09 Nov 2016 11:31:46 GMT
+Server: Apache/2.4.23
+X-Powered-By: PHP/5.6.25
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: wordpress_test_cookie=WP+Cookie+check; path=/dev/vertical-menswere/wp/
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8' in /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/community/Fishpig/Wordpress/Helper/System.php:373
+Stack trace:
+#0 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/community/Fishpig/Wordpress/controllers/Adminhtml/WordpressController.php(34): Fishpig_Wordpress_Helper_System->loginToWordPress('admin', 'admin@123', 'http://www.unit...')
+#1 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Fishpig_Wordpress_Adminhtml_WordpressController->loginAction()
+#2 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('login')
+#3 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Model/App.php(365): Mage_Core_Controller_Varien_Front->dispatch()
+#5 /home/uniterrene2015/public_html/dev/vertical-menswere/app/Mage.php(684): Mage_Core_Model_App->run(Array)
+#6 /home/uniterrene2015/public_html/dev/vertical-menswere/index.php(83): Mage::run('', 'store')
+#7 {main}

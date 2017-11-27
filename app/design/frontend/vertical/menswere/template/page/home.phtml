@@ -1,0 +1,204 @@
+<?php
+
+/**
+
+ * Magento
+
+ *
+
+ * NOTICE OF LICENSE
+
+ *
+
+ * This source file is subject to the Academic Free License (AFL 3.0)
+
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+
+ * It is also available through the world-wide-web at this URL:
+
+ * http://opensource.org/licenses/afl-3.0.php
+
+ * If you did not receive a copy of the license and are unable to
+
+ * obtain it through the world-wide-web, please send an email
+
+ * to license@magento.com so we can send you a copy immediately.
+
+ *
+
+ * DISCLAIMER
+
+ *
+
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+
+ * versions in the future. If you wish to customize Magento for your
+
+ * needs please refer to http://www.magento.com for more information.
+
+ *
+
+ * @category    design
+
+ * @package     rwd_default
+
+ * @copyright   Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
+
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+
+ */
+
+?>
+<?php
+
+/**
+
+ * Template for Mage_Page_Block_Html
+
+ */
+
+?>
+<?php echo $this->getChildHtml('header') ?>
+
+<!--[if lt IE 7 ]> <html lang="<?php echo $this->getLang(); ?>" id="top" class="no-js ie6"> <![endif]-->
+
+<!--[if IE 7 ]>    <html lang="<?php echo $this->getLang(); ?>" id="top" class="no-js ie7"> <![endif]-->
+
+<!--[if IE 8 ]>    <html lang="<?php echo $this->getLang(); ?>" id="top" class="no-js ie8"> <![endif]-->
+
+<!--[if IE 9 ]>    <html lang="<?php echo $this->getLang(); ?>" id="top" class="no-js ie9"> <![endif]-->
+
+<section id="banner">
+  <div class="container2 clearfix">
+    <div id="da-slider" class="da-slider">
+      <div class="da-slide"> <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('home_page_slider1')->toHtml();?> </div>
+      <div class="da-slide"> <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('home_page_slider2')->toHtml();?> </div>
+      <div class="da-slide"> <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('home_page_slider3')->toHtml();?> </div>
+      <div class="da-slide"> <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('home_page_slider4')->toHtml();?> </div>
+      
+      <!-- <nav class="da-arrows"> <span class="da-arrows-prev"></span> <span class="da-arrows-next"></span> </nav>--> 
+      
+    </div>
+  </div>
+</section>
+
+<!--<section id="rated_area">
+  <div class="container clearfix">
+    <div class="content f_right clearfix"><img alt="#" src="images/star.png" />
+      <h2>GET OUR HIGHEST<br />
+        RATED SHIRTS</h2>
+      <p><?php //echo $this->getLayout()->createBlock('cms/block')->setBlockId('get_rated')->toHtml();?></p>
+      <a class="trans_btn" href="#">Custom ORDER</a></div>
+  </div>
+</section>-->
+
+<section id="rated_area">
+  <div class="rated_wrapper clearfix">
+     <div class="left_container">
+      <img src="images/rated_pic.jpg" alt="#">
+  </div>
+     <div class="right_container">
+     <div class="content  clearfix"> <img src="images/star.png" alt="#">
+      <h2>GET OUR HIGHEST<br>RATED SHIRTS</h2>
+      <p><?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('get_rated')->toHtml();?></p>
+      </div>
+  </div>
+  </div>  
+  
+</section>
+
+<section id="readymadeshirt">
+  <div class="container clearfix">
+    <div class="content f_left">
+      <h2>GET OUR<br />
+        READYMADE SHIRTS</h2>
+      <p><?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('get_ready')->toHtml();?></p>
+      <a class="trans_btn" href="http://www.uniterreneprojects.com/dev/vertical-menswere/ready-shirts.html">VIEW ALL SHIRTS</a></div>
+    <div class="shirt_slider clearfix">
+      <ul id="flexiselDemo2">
+        <li><img alt="#" src="images/readymade_shirt_pic.png" />
+          <div class="overlay clearfix">
+            <div class="title">
+              <h6>Sydney Banker- $85</h6>
+            </div>
+            <div class="links">&nbsp;</div>
+          </div>
+        </li>
+        <li><img alt="#" src="images/readymade_shirt_pic.png" />
+          <div class="overlay clearfix">
+            <div class="title">
+              <h6>Sydney Banker- $85</h6>
+            </div>
+            <div class="links">&nbsp;</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
+
+<!--<section id="season_sale">
+  <div class="container clearfix">
+    <div class="content f_right clearfix">
+      <h2>THE SEASON SALE BEGIN UPTO 20% DISCOUNT</h2>
+      <?php //echo $this->getLayout()->createBlock('cms/block')->setBlockId('discount')->toHtml();?> 
+      <a class="trans_btn" href="http://www.uniterreneprojects.com/dev/vertical-menswere/ready-shirts.html">GRAB THE OPPORTUNITY</a>
+    </div>
+  </div>
+</section>-->
+
+<section id="season_sale">
+   <div class="season_sale_inner clearfix">
+       <div class="s_container_left">
+          <img src="images/season_pic.png" alt="#">  
+       </div>
+       <div class="s_container_right">
+          <div class="right_wrapper">
+            
+              <h2>THE SEASON SALE BEGIN UPTO 20% DISCOUNT</h2>
+               <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('discount')->toHtml();?> 
+               <a class="trans_btn" href="http://www.uniterreneprojects.com/dev/vertical-menswere/ready-shirts.html">GRAB THE OPPORTUNITY</a>
+          </div>
+       </div>
+       
+   </div>
+</section>
+
+<section id="blog_section" class="clearfix">
+  <div class="blog"><a class="title" href="http://www.uniterreneprojects.com/dev/vertical-menswere/blog">VISIT OUR BLOG</a></div>
+  <div class="why_about">
+    <div class="why"><a class="title" href="http://www.uniterreneprojects.com/dev/vertical-menswere/about">WHY SHOULD YOU <br />
+      CHOOSE US</a></div>
+    <div class="about f_right">
+      <h4>ABOUT US</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet orci dui. Fusce lectus libero, viverra vel quam quis, euismod sagittis diam. Nunc auctor massa vitae aliquam facilisis. Duis posuere tempor egestas.</p>
+      <a class="read_more" href="http://www.uniterreneprojects.com/dev/vertical-menswere/about">READ MORE </a></div>
+  </div>
+</section>
+
+<section id="testimonial" class="clearfix">
+  <div class="container">
+    <div class="circle"><img alt="#" src="images/inverted_comma.png" /></div>
+    <h3>WHAT OUR CLIENTS SAY</h3>
+    <ul id="flexiselDemo3">
+      <li>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet orci dui. Fusce lectus libero, viverra vel quam quis, euismod sagittis diam. Nunc auctor massa vitae aliquam facilisis. Duis posuere tempor egestas. Vivamus a euismod dui. Praesent orci ante, efficitur eget imperdiet ac, cursus at elit. Nulla pharetra</p>
+        <p>JOHN DOE</p>
+        <p><em>NEWYOURK, USA</em></p>
+      </li>
+      <li>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet orci dui. Fusce lectus libero, viverra vel quam quis, euismod sagittis diam. Nunc auctor massa vitae aliquam facilisis. Duis posuere tempor egestas. Vivamus a euismod dui. Praesent orci ante, efficitur eget imperdiet ac, cursus at elit. Nulla pharetra</p>
+        <p>JOHN DOE</p>
+        <p><em>NEWYOURK, USA</em></p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<?php echo $this->getChildHtml('footer_before') ?> <?php echo $this->getChildHtml('footer') ?> <?php echo $this->getChildHtml('global_cookie_notice') ?> <?php echo $this->getChildHtml('before_body_end') ?>
+</div>
+</div>
+<?php echo $this->getAbsoluteFooter() ?>
+</body></html>

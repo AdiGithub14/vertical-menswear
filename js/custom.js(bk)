@@ -1,0 +1,108 @@
+$(window).load(function() {
+   // $("#flexiselDemo1").flexisel();
+   $('.menu-button').bind('click',function(){
+	  //alert("gdfgft"); 
+	  $('.menu-bar').slideToggle();
+	   
+	   
+   });
+    $("#flexiselDemo2").flexisel({
+        enableResponsiveBreakpoints: true,
+		 visibleItems : 1,
+		  autoPlay : true,
+        responsiveBreakpoints: { 
+            portrait: { 
+                changePoint:480,
+                visibleItems: 1
+            }, 
+            landscape: { 
+                changePoint:640,
+                visibleItems: 1
+            },
+            tablet: { 
+                changePoint:768,
+                visibleItems: 1
+            }
+        }
+    });
+
+   $("#flexiselDemo3").flexisel({
+        visibleItems: 1,
+       animationSpeed: 1000,
+        autoPlay: true,
+        autoPlaySpeed: 3000,            
+        pauseOnHover: true,
+        enableResponsiveBreakpoints: true,
+        responsiveBreakpoints: { 
+            portrait: { 
+                changePoint:480,
+                visibleItems: 1
+            }, 
+            landscape: { 
+                changePoint:640,
+                visibleItems: 1
+            },
+            tablet: { 
+                changePoint:768,
+               visibleItems: 1
+           }
+        }
+    });
+
+    $("#flexiselDemo4").flexisel({
+        clone:false
+    });
+    
+});
+
+$(document).ready(function() {
+    $('.search').bind("click", function(){
+		$('.search_field').show();
+		});
+		
+		$('.search_field a').bind("click", function(){
+		$('.search_field').hide();
+		});
+		
+	   var winHeight= $(window).height();
+	   //var searchHeight= $('.search_box_inside').height();	
+	   
+	   var searchPos=winHeight/2;
+	   
+	   $('.search_box_inside').css({'top':searchPos});
+	   
+	   var headHeight= $("#header").height();
+	   var winHeight=$(document).height();
+	   var inbodyHeight= winHeight-headHeight;
+	   console.log(winHeight);
+	   
+	   $(".inner_body").css({'height':inbodyHeight})
+	   
+	   
+	   
+/*--------------------------------------------------------------------------------------------
+                                         SHARE POP UP	  
+--------------------------------------------------------------------------------------------*/										   
+	
+	$('#right_panel .share_btn').bind('click', function(){
+		  $('.share_overlay').css({'display':'block'}).delay(30000);
+		});
+    $('.share_block .share_inner .close_btn').bind('click', function(){
+		  $('.share_overlay').css({'display':'none'});
+		});
+	   
+			
+});
+
+// shirt customize window height:
+
+var headHeight= $("#header").height();
+	   var winHeight=$(window).height();
+	   var inbodyHeight= winHeight-headHeight;
+	  // console.log(winHeight);
+	   
+	   $("#viewport").css({'height':inbodyHeight})
+	   
+
+	   
+	   

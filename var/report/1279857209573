@@ -1,0 +1,13 @@
+a:4:{i:0;s:176:"SQLSTATE[HY000]: General error: 2006 MySQL server has gone away, query was: SELECT `core_website`.`website_id`, `core_website`.`code`, `core_website`.`name` FROM `core_website`";i:1;s:1789:"#0 /home/uniterrene2015/public_html/dev/vertical-menswere/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#1 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#2 /home/uniterrene2015/public_html/dev/vertical-menswere/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#3 /home/uniterrene2015/public_html/dev/vertical-menswere/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT `core_we...', Array)
+#4 /home/uniterrene2015/public_html/dev/vertical-menswere/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT `core_we...', Array)
+#5 /home/uniterrene2015/public_html/dev/vertical-menswere/lib/Zend/Db/Adapter/Abstract.php(776): Varien_Db_Adapter_Pdo_Mysql->query(Object(Varien_Db_Select), Array)
+#6 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Model/Resource/Config.php(63): Zend_Db_Adapter_Abstract->fetchAssoc(Object(Varien_Db_Select))
+#7 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Model/Config.php(354): Mage_Core_Model_Resource_Config->loadToXml(Object(Mage_Core_Model_Config))
+#8 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Model/Config.php(260): Mage_Core_Model_Config->loadDb()
+#9 /home/uniterrene2015/public_html/dev/vertical-menswere/app/code/core/Mage/Core/Model/App.php(277): Mage_Core_Model_Config->init(Array)
+#10 /home/uniterrene2015/public_html/dev/vertical-menswere/app/Mage.php(641): Mage_Core_Model_App->init('default', 'store', Array)
+#11 /home/uniterrene2015/public_html/dev/vertical-menswere/customize_shirt.php(8): Mage::init('default')
+#12 {main}";s:3:"url";s:42:"/dev/vertical-menswere/customize_shirt.php";s:11:"script_name";s:42:"/dev/vertical-menswere/customize_shirt.php";}

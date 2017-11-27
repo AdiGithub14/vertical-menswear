@@ -1,0 +1,2575 @@
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the lists method, code -90
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listInterestGroupings method, code -90
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the ping method, code -90
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:32+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listInterestGroupings method, code -90
+    [__pid] => 107239
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:43+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage1.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [user_id] => 72c08244222f9cf5ed858fbfc
+    [username] => Uniterrene Websoft Pvt Ltd
+    [member_since] => 2016-09-19 09:41:19
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => US/Eastern
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2016-09-19 10:52:03
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=72c08244222f9cf5ed858fbfc&afl=1
+    [contact] => Array
+        (
+            [fname] => Shourya
+            [lname] => Uniterrene
+            [email] => shourya@uniterrene.com
+            [company] => Uniterrene Websoft Pvt Ltd
+            [address1] => Suraska office kestopur
+            [address2] => 
+            [city] => Bidhannagar
+            [state] => 
+            [zip] => 700064
+            [country] => India
+            [url] => http://www.uniterreneprojects.com/dev/vertical-menswere/
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:45+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid MailChimp List ID: , code 200
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:46+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:46+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:46+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:46+00:00 DEBUG (7): Array
+(
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:46+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:48+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid MailChimp List ID: , code 200
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:51+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:51+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:51+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:51+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:52+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 113736
+)
+
+2016-09-19T11:46:52+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 113736
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVars
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [name] => Email Address
+            [req] => 1
+            [field_type] => email
+            [public] => 1
+            [show] => 1
+            [order] => 1
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => EMAIL
+            [id] => 0
+        )
+
+    [1] => Array
+        (
+            [name] => First Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 2
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => FNAME
+            [id] => 1
+        )
+
+    [2] => Array
+        (
+            [name] => Last Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 3
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => LNAME
+            [id] => 2
+        )
+
+    [3] => Array
+        (
+            [name] => Customer Groups
+            [req] => 
+            [field_type] => dropdown
+            [public] => 1
+            [show] => 1
+            [order] => 4
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [choices] => Array
+                (
+                    [0] => General
+                    [1] => Wholesale
+                    [2] => Retailer
+                    [3] => Newly created
+                    [4] => NOT LOGGED IN
+                )
+
+            [tag] => CGROUP
+            [id] => 3
+        )
+
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVarUpdate
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => CGROUP
+    [2] => Array
+        (
+            [choices] => Array
+                (
+                    [1] => General
+                    [2] => Wholesale
+                    [3] => Retailer
+                    [4] => NOT LOGGED IN
+                )
+
+        )
+
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => listWebhookAdd
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:09+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => http://www.uniterreneprojects.com/dev/vertical-menswere/monkey/webhook/index/wkey/9e26d0ab8ce18799/
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:10+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [user_id] => 72c08244222f9cf5ed858fbfc
+    [username] => Uniterrene Websoft Pvt Ltd
+    [member_since] => 2016-09-19 09:41:19
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => US/Eastern
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2016-09-19 10:52:03
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=72c08244222f9cf5ed858fbfc&afl=1
+    [contact] => Array
+        (
+            [fname] => Shourya
+            [lname] => Uniterrene
+            [email] => shourya@uniterrene.com
+            [company] => Uniterrene Websoft Pvt Ltd
+            [address1] => Suraska office kestopur
+            [address2] => 
+            [city] => Bidhannagar
+            [state] => 
+            [zip] => 700064
+            [country] => India
+            [url] => http://www.uniterreneprojects.com/dev/vertical-menswere/
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:12+00:00 DEBUG (7): Array
+(
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:13+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:14+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 115139
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => shourya@uniterrene.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:39+00:00 DEBUG (7): Array
+(
+    [0] => Error: There is no record of the email address "shourya@uniterrene.com" in your account, code 232
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => shourya@uniterrene.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 107036
+)
+
+2016-09-19T11:47:41+00:00 DEBUG (7): Array
+(
+    [0] => Error: There is no record of the email address "shourya@uniterrene.com" in your account, code 232
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => shourya@uniterrene.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => shourya@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => shourya@uniterrene.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => shourya@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => shourya@uniterrene.com
+    [2] => Array
+        (
+            [FNAME] => Shourya
+            [LNAME] => Chowdhury
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 107036
+)
+
+2016-09-19T11:48:08+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 107036
+)
+
+2016-09-19T11:53:43+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 115136
+)
+
+2016-09-19T11:53:43+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 115136
+)
+
+2016-09-19T11:53:43+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 115136
+)
+
+2016-09-19T11:53:43+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => ranjita@uniterrene.com
+    [__pid] => 115136
+)
+
+2016-09-19T11:53:43+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => ranjita@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 115136
+)
+
+2016-09-19T12:22:33+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:33+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:33+00:00 DEBUG (7): Array
+(
+    [0] => listUnsubscribe
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:33+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => shourya@uniterrene.com
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:33+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:43+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:43+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:43+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:43+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => shourya@uniterrene.com
+    [__pid] => 169512
+)
+
+2016-09-19T12:22:44+00:00 DEBUG (7): Array
+(
+    [success] => 1
+    [errors] => 0
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email] => shourya@uniterrene.com
+                    [id] => 2bea77a5e3
+                    [euid] => 2bea77a5e3
+                    [email_type] => html
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 198.71.234.27
+                    [timestamp_opt] => 2016-09-19 11:48:08
+                    [member_rating] => 2
+                    [info_changed] => 2016-09-19 12:22:33
+                    [web_id] => 16777783
+                    [leid] => 16777783
+                    [language] => 
+                    [list_id] => c7924d3e2a
+                    [list_name] => Customer Signup
+                    [merges] => Array
+                        (
+                            [EMAIL] => shourya@uniterrene.com
+                            [FNAME] => Shourya
+                            [LNAME] => Chowdhury
+                            [CGROUP] => General
+                        )
+
+                    [status] => unsubscribed
+                    [timestamp] => 2016-09-19 12:22:33
+                    [is_gmonkey] => 
+                    [lists] => Array
+                        (
+                        )
+
+                    [geo] => Array
+                        (
+                        )
+
+                    [clients] => Array
+                        (
+                        )
+
+                    [static_segments] => Array
+                        (
+                        )
+
+                    [notes] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 169512
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => dilip@uniterrene.com
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => dilip@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => dilip@uniterrene.com
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => dilip@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:53+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => dilip@uniterrene.com
+    [2] => Array
+        (
+            [FNAME] => Dilip
+            [LNAME] => Satra
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 180309
+)
+
+2016-09-19T12:26:54+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 180309
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => pinaki@uniterrene.com
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => pinaki@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => pinaki@uniterrene.com
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => pinaki@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:18+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => pinaki@uniterrene.com
+    [2] => Array
+        (
+            [FNAME] => pinaki
+            [LNAME] => da
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 194562
+)
+
+2016-09-19T12:36:19+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 194562
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => aloke@uniterrene.com
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => aloke@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => aloke@uniterrene.com
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => aloke@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => aloke@uniterrene.com
+    [2] => Array
+        (
+            [FNAME] => Aloke
+            [LNAME] => Saha
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 238082
+)
+
+2016-09-19T12:59:45+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 238082
+)
+
+2016-09-20T05:21:50+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:50+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:50+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:50+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => ranit@uniterrene.com
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => ranit@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => ranit@uniterrene.com
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => ranit@uniterrene.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [1] => ranit@uniterrene.com
+    [2] => Array
+        (
+            [FNAME] => ranit
+            [LNAME] => majumder
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 846938
+)
+
+2016-09-20T05:21:51+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 846938
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => shourya@uniterrene.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => Error: The email address "shourya@uniterrene.com" is not subscribed to any lists., code 215
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [list_id] => c7924d3e2a
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage1.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 4
+                            [unsubscribe_count] => 1
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 5
+                            [unsubscribe_count_since_send] => 1
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 15
+                            [target_sub_rate] => 15
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [list_id] => c7924d3e2a
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 4
+                            [unsubscribe_count] => 1
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 5
+                            [unsubscribe_count_since_send] => 1
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 15
+                            [target_sub_rate] => 15
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:03+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => shourya@uniterrene.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => Error: The email address "shourya@uniterrene.com" is not subscribed to any lists., code 215
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [list_id] => c7924d3e2a
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 4
+                            [unsubscribe_count] => 1
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 5
+                            [unsubscribe_count_since_send] => 1
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 15
+                            [target_sub_rate] => 15
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [list_id] => c7924d3e2a
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => c7924d3e2a
+                    [web_id] => 21331
+                    [name] => Customer Signup
+                    [date_created] => 2016-09-19 09:46:44
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shourya
+                    [default_from_email] => shourya@uniterrene.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/cgkpSj
+                    [subscribe_url_long] => http://uniterreneprojects.us14.list-manage2.com/subscribe?u=72c08244222f9cf5ed858fbfc&id=c7924d3e2a
+                    [beamer_address] => us14-839afd59df-a3acdae303@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 4
+                            [unsubscribe_count] => 1
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 5
+                            [unsubscribe_count_since_send] => 1
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 15
+                            [target_sub_rate] => 15
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => us14.api.mailchimp.com
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 1664066d38c962bfbdf1a3a75fa0d8d9-us14
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => c7924d3e2a
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1001142
+)
+
+2016-09-20T07:11:05+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1001142
+)
+

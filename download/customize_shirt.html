@@ -1,0 +1,582 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>VERTICAL MENSWEAR</title>
+<link href="css/custom.css" type="text/css" rel="stylesheet">
+<link href="css/responsive.css" type="text/css" rel="stylesheet">
+<link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+<!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css"> -->
+</head>
+<body id="customizeBody">
+<header id="header" class="custom_shirt_header">
+  <div class="header-bottom">
+    <div class="container clearfix">
+      <div class="logo"> <a href="#"><img src="images/logo.png" ></a> </div>
+      <div class="top_menu">
+        <ul>
+          <li><a href="#"><i class="fa fa-lock"></i> Sign In</a></li>
+          <li><a href="#"><i class="fa fa-heart"></i> wish list</a></li>
+          <li><a href="#"><i class="fa fa-shopping-bag"></i> shopping bag <span>0</span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="viewport" class="clearfix">
+  <div class="errorPop">
+    <div class="erronInner">
+      Please Select an Option to Continue
+    </div>
+  </div>
+  <div class="overLoader">
+    <h4>Loading....</h4>
+    <img src="images/loading.gif">
+  </div>
+  <div class="stepsbar_wrapper">
+
+     <div class="stepsbar_inner_wrapper">
+      <div class="arrow">
+              <img src="images/bh-arrow-left.svg">
+              <h2>START HERE</h2>
+          </div>
+        <a href="javascript:void(0)" id="btn_up"><img src="images/up.png"/></a>
+        <div class="steps_bar">
+        <!--Arrow-->
+          <!-- <div class="arrow">
+              <img src="images/bh-arrow-left.svg">
+              <h2>START HERE</h2>
+          </div> -->
+          <!--arrow-->
+          <ul class="steps_scroll">
+             <li id="design" class="customCursor">
+                <img src="images/shirt_icon.png" alt="#">
+                <p>Design</p>
+             </li>
+             <li  id="febric">
+              <img src="images/fabric_icon.png" alt="#">
+              <p>Fabric</p>
+             </li>
+             <li id="customize_shirt" class="customize_shirt">
+               <img src="images/shirt_customize_icon.png" alt="#">
+               <p>Customized</p>
+             </li>
+             <li id="embroidery_li" class="embroidery">
+               <img src="images/embroidery_icon.png" alt="#">
+               <p>Embroidery</p>
+             </li>
+             <li id="addToCart">
+                <img src="images/cart_icon.png" alt="#">
+                <p>Add to Cart</p>
+             </li>
+          </ul>
+
+        </div>
+         <a id="btn_bottom" href="javascript:void(0)>"><img src="images/down.png"/></a>
+     </div>
+  </div>
+
+  <!---->
+    <div id="popups">
+          <div id="design" class="popup ">
+              <div class="close"><a href="#" class=""><i class="fa fa-times"></i></a></div>
+              <div class="popup_inner">
+                 <div class="header clearfix">
+                     <h4>Step 1. Choose <span> Design</span></h4>
+                     <ul id="buttons">
+                      <li id="prev"><button>Previous</button></li>
+                       <li id="next"><button>Next</button></li>
+                     </ul>
+                 </div>
+                 <div class="popup_body">
+                   <div class="scrollbar"></div>
+                   <div class="scrollable">
+                      <ul>
+                         <li id="d1" >
+                            <div class="productImg">
+                                <img src="images/design1.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Young</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 105.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d2" >
+                            <div class="productImg">
+                                <img src="images/design2.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Mandarin Collar</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 120.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d3" >
+                            <div class="productImg">
+                                <img src="images/design3.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Denim</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 195.50
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d4" >
+                            <div class="productImg">
+                                <img src="images/design4.png" alt="#">
+                            </div>
+                           <div  class="productName">
+                              <h5>Double Collar</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 304.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d5" >
+                            <div class="productImg">
+                                <img src="images/design5.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Folded Collar</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 105.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d6" >
+                            <div class="productImg">
+                                <img src="images/design6.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Half Matched</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 455.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="d7" >
+                            <div class="productImg">
+                                <img src="images/design7.png" alt="#">
+                            </div>
+                           <div class="productName">
+                              <h5>Casual</h5>
+                           </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM 235.00
+                              </p>
+                           </div>
+                                
+                         </li>
+                       </ul>
+                   </div>
+                 </div>
+              </div>
+          </div>
+
+          <div id="fabric" class="popup">
+              <div class="close"><a href="#" class=""><i class="fa fa-times"></i></a></div>
+              <div class="popup_inner clearfix">
+                 <div class="header">
+                     <h4>Step 2. Choose Fabric</h4>
+                     <ul id="buttons">
+                      <li id="prev"><button>Previous</button></li>
+                       <li id="next"><button>Next</button></li>
+                     </ul>
+                 </div>
+                
+                 
+                 <div id="baseFebric" class="popup_body fab_body">
+                   <h5>Base Fabric</h5>
+                   <div class="scrollbar"></div>
+                   <div class="scrollable">
+                      <ul>
+                         <li id="fab1" >
+                            <div class="productImg">
+                                <img src="images/fb1.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="fab2" >
+                            <div class="productImg">
+                                <img src="images/fb2.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="fab3" >
+                            <div class="productImg">
+                                <img src="images/fb3.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="fab4" >
+                            <div class="productImg">
+                                <img src="images/fb4.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="fab5" >
+                            <div class="productImg">
+                                <img src="images/fb5.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="fab6" >
+                            <div class="productImg">
+                                <img src="images/fb6.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                          <li id="fab7" >
+                            <div class="productImg">
+                                <img src="images/fb7.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                          <li id="fab8" >
+                            <div class="productImg">
+                                <img src="images/fb8.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                                                  
+                       </ul>
+                   </div>
+                 </div>
+                 <div id="contrastFebric" class="popup_body fab_body">
+                  <h5>Contrast Fabric</h5>
+                   <div class="scrollbar"></div>
+                   <div class="scrollable">
+                      <ul>
+                         <li id="cst1" >
+                            <div class="productImg">
+                                <img src="images/cst1.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst2" >
+                            <div class="productImg">
+                                <img src="images/cst2.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst3" >
+                            <div class="productImg">
+                                <img src="images/cst3.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst4" >
+                            <div class="productImg">
+                                <img src="images/cst4.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst5" >
+                            <div class="productImg">
+                                <img src="images/cst5.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst6" >
+                            <div class="productImg">
+                                <img src="images/cst6.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst7" >
+                            <div class="productImg">
+                                <img src="images/cst7.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>
+                         <li id="cst8" >
+                            <div class="productImg">
+                                <img src="images/cst8.png" alt="#">
+                            </div>
+                           <div class="productPrice">
+                              <p class="code">
+                               RM105
+                              </p>
+                           </div>
+                                
+                         </li>                         
+                       </ul>
+                   </div>
+                 </div>
+              </div>
+          </div>
+
+          <div id="customize" class="popup ">
+              <div class="close"><a href="#" class=""><i class="fa fa-times"></i></a></div>
+              <div class="popup_inner">
+                 <div class="header clearfix">
+                     <h4>Step 3. Customize Design</h4>
+                     <ul id="buttons">
+                      <li id="prev"><button>Previous</button></li>
+                       <li id="next"><button>Next</button></li>
+                     </ul>
+                 </div>
+                 <div class="popup_body">
+                   <div class="scrollbar"></div>
+                   <div class="scrollable">
+                      <ul>
+                         <li id="c1" >
+                            <div class="productImg">
+                                <img src="images/design1.png" alt="#">
+                            </div>
+                           <div class="productName">
+                             <input type="radio" name="sleev" value="full_sleev"> Long Sleev
+                           </div>
+                           <div class="productPrice">
+                               <input type="radio" name="sleev" value="hulf_sleev"> Short Sleev
+                           </div>
+                                
+                         </li>
+                         <li id="c2" >
+                            <div class="productImg">
+                                <img src="images/design1.png" alt="#">
+                            </div>
+                           <div class="productName">
+                             <input type="radio" name="plaket" value="covered_plaket"> Covered Plaket
+                           </div>
+                           <div class="productPrice">
+                               <input type="radio" name="plaket" value="normal_plaket"> Uncovered Plaket
+                           </div>
+                                
+                         </li>
+                         <li id="c3" >
+                            <div class="productImg">
+                                <img src="images/design1.png" alt="#">
+                            </div>
+                           <div class="productName">
+                             <input type="radio" name="collar" value="collar_1"> Collar 1
+                           </div>
+                           <div class="productPrice">
+                               <input type="radio" name="collar" value="collar_2"> Collar 2
+                           </div>
+                                
+                         </li>
+                                                 
+                       </ul>
+                   </div>
+                 </div>
+              </div>
+          </div>
+
+          <div id="embroidery" class="popup ">
+              <div class="close"><a href="#" class=""><i class="fa fa-times"></i></a></div>
+              <div class="popup_inner">
+                 <div class="header clearfix">
+                     <h4>Step 4. Add Embroidery</h4>
+                     <ul id="buttons">
+                      <li id="prev"><button>Previous</button></li>
+                       <li id="next"><button>Next</button></li>
+                     </ul>
+                 </div>
+                 <div class="popup_body">
+                   <div class="scrollbar"></div>
+                   <div class="scrollable">
+                      <div class="emOptions">
+                        <h4>Placement</h4>
+                        <select id="placement_of_embroidery">
+                          <option value="no">Select A Place</option>
+                          <option value="collar">Inner Collar</option>
+                          <option value="pocket">Pocket/ Chest</option>                         
+                          <option value="mercedes">Mercedes</option>
+                          <option value="audi">Audi</option>
+                        </select> 
+                        
+                        <h4>Embroidery Text</h4> 
+                          <span>For Example your initials, Maximum 6 charactes Including Punction</span>
+                          <div class="inputField">
+                          <span class="abs">Your Text : </span>
+                          <input type="text" id="userInput" placeholder="" disabled>
+                          </div> 
+                      </div>
+                   </div>
+                 </div>
+              </div>
+          </div>
+    </div>
+
+  <!---->
+
+  <div id="right_panel">
+    <div class="rightPanelInner">
+     <div class="variable_price">
+      <div class="pricePreload"></div>
+        <p>RM <span>60.00</span></p>
+     </div>
+     <div class="cart_btn">
+        <a href="#"><span><i class="fa fa-shopping-cart"></i> ADD TO CART</span></a>
+     </div>
+     <ul class="right_side_bar_btn">
+       <li><a href="#"><img src="images/save_btn.png" alt="#"> Save</a></li>
+       <li id="reload"><a href="#"><img src="images/reset_btn.png" alt="#"> Reset</a></li>
+       <li><a href="#"><img src="images/share_btn.png" alt="#"> Share</a></li>
+     </ul>
+     </div>
+  </div>
+  <div class="shirtControls">
+    <ul>
+      <li id="zoomViewport"></li>
+      <li id="rotateViewport"><img src="images/rotate.png"></li>
+      <li id="rotateBack"><img src="images/rotate_bk.png"></li>
+    </ul>
+  </div>
+
+  <div id="shirt_viewport">
+    <div id="shirtMove">
+      <div class="shirtHolder ui-widget-content">
+        <ul>         
+          <li id="base"><img  src=""></li>
+          <li id="inner_back"><img  src=""></li>
+          <li id="full_collar"><img  src=""></li>
+          <li id="inner_collar"><img  src=""></li> 
+          <li id="outer_collar"><img  src=""></li>
+          <li id="base_top"><img  src=""></li>
+          <li id="inner_placket"><img  src=""></li>
+          <li id="outer_placket"><img  src=""></li>
+          <li id="full_sleev"><img  src=""></li>
+          <li id="hulf_sleev"><img  src=""></li>
+          <li id="left_cuff"><img  src=""></li>
+          <li id="right_cuff"><img  src=""></li>    
+        </ul>
+        <!--<ul>
+          <span id="ajaxloader" ><img  src="images/preloader.gif"></span>
+          <li id="base"><img  src="products/design/base/base.png"></li>
+          <li id="inner_back"><img  src="products/design/base/inner_back.png"></li>
+          <li id="full_collar"><img  src="products/design/base/no_img.png"></li>
+          <li id="inner_collar"><img  src="products/design/base/inner_collar.png"></li> 
+          <li id="outer_collar"><img  src="products/design/base/outer_collar.png"></li>
+          <li id="base_top"><img  src="products/design/base/no_img.png"></li>
+          <li id="inner_Placket"><img  src="products/design/base/inner_placket.png"></li>
+          <li id="outer_placket"><img  src="products/design/base/outer_placket.png"></li>
+          <li id="full_sleev"><img  src="products/design/base/full_sleev.png"></li>
+          <li id="hulf_sleev"><img  src="products/design/base/no_img.png"></li>
+          <li id="left_cuff"><img  src="products/design/base/left_cuff.png"></li>
+          <li id="right_cuff"><img  src="products/design/base/right_cuff.png"></li>    
+        </ul>-->
+      </div>
+      </div>
+      <!--img src="products/design/design1/design1.png" alt="#"-->
+  </div>
+  
+</div>
+</body>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>-->
+<script src="js/jquery-1.11.0.min.js"></script>
+<!-- custom scrollbar -->
+<script src="http://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+
+
+<!-- ready made shirt slider -->
+<script src="js/designs.js"></script>
+<script src="js/shirt.js"></script>
+<script src="js/custom.js"></script>
+<!--<script src="js/shirt_customization.js"></script>-->
+<script type="text/javascript">
+  //alert($('#header').height());
+</script>
+
+</html>
